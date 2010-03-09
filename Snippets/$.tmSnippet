@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$(document).ready(function(){
-  $0
-});</string>
+	<string>\$(${2:"$1"})$0</string>
+	<key>keyEquivalent</key>
+	<string>$</string>
 	<key>name</key>
-	<string>$(document).ready</string>
+	<string>$</string>
 	<key>scope</key>
 	<string>source.js</string>
-	<key>tabTrigger</key>
-	<string>docready</string>
 	<key>uuid</key>
-	<string>5D13795C-3269-4BD3-9273-66E9F112583D</string>
+	<string>0CA1447F-1A46-4D94-8BCD-DDC32FEE4358</string>
 </dict>
 </plist>
