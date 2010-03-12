@@ -4,12 +4,12 @@
 <dict>
 	<key>content</key>
 	<string>\$(${2:"$1"})$0</string>
-	<key>keyEquivalent</key>
-	<string>$</string>
 	<key>name</key>
 	<string>$</string>
 	<key>scope</key>
 	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>$</string>
 	<key>uuid</key>
 	<string>0CA1447F-1A46-4D94-8BCD-DDC32FEE4358</string>
 </dict>
