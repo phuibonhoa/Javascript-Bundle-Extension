@@ -24,7 +24,7 @@ end</string>
 	<key>output</key>
 	<string>insertAsSnippet</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js,source.coffee</string>
 	<key>uuid</key>
 	<string>26985EB6-F62E-4895-938C-BAFC321F4B3A</string>
 </dict>
