@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$(document).ready(function(){
+	<string>\$(function(){
   $0
 });</string>
 	<key>name</key>
-	<string>$(document).ready</string>
+	<string>$(function(){ });</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
